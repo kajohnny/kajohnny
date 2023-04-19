@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @kajohnny
-- 👀 I’m interested in a machine learning project or a project that has any aspect of artificial intelligence for my final year project.
-- 🌱 I’m currently learning at Kenyatta University in Kenya.
+- 👋 Hi, I’m johnny
 - �
 - 📫 How to reach me.....kajohnny101@gmail.com
 
